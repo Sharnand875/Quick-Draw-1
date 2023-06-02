@@ -1,0 +1,19 @@
+body{
+    color:rgb(255, 255, 255)
+    
+}
+
+#Score{
+    font-size: 20px;
+    margin: 30px;
+}
+
+#Timer{
+    font-size: 20px;
+    float: right;
+}
+
+#Drawn_Sketch{
+color: rgb(93, 158, 255);
+}
+
